@@ -3,7 +3,7 @@
 
 **Department of Ocean and Resources Engineering** 
 
-[Email](mailto:shijieh@hawaii.edu) | [Phone](tel:+18082008893) | [Download CV (PDF)](Academic%20CV.pdf)
+[Email](mailto:shijieh@hawaii.edu) | [Phone](tel:+18082008893) | [Download CV (PDF)](CV.pdf)
 
 ---
 
