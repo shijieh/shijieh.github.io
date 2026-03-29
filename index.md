@@ -1,5 +1,6 @@
 # Shijie Huang, Ph.D.
 **Postdoctoral Researcher** **University of Hawai'i at Manoa** 
+
 **Department of Ocean and Resources Engineering** 
 
 [Email](mailto:shijieh@hawaii.edu) | [Phone](tel:+18082008893) | [Download CV (PDF)](Academic%20CV.pdf)
