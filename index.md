@@ -8,9 +8,9 @@
 ---
 
 ## 🌊 About Me
-I am a Postdoctoral Researcher at the University of Hawai'i at Manoa[cite: 15]. My research is dedicated to supporting informed coastal management, enhancing community resilience, and advancing sustainable energy solutions. 
+I am a Postdoctoral Researcher at the University of Hawai'i at Manoa. My research is dedicated to supporting informed coastal management, enhancing community resilience, and advancing sustainable energy solutions. 
 
-My expertise lies in **wave energy conversion**, **nearshore hydrodynamics**, **reef-wave interactions**, and **coastal sediment transport**. I specialize in utilizing **Computational Fluid Dynamics (CFD)** and high-performance computing to solve complex coastal engineering challenges.
+My expertise lies in **wave energy conversion**, **nearshore hydrodynamics**, **reef-wave interactions**, and **coastal sediment transport**. I specialize in utilizing **numerical tools** and high-performance computing to solve complex coastal engineering challenges.
 
 ---
 
